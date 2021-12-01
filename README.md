@@ -1,2 +1,4 @@
-# Simple-project
-"Hello world"
+ fun main(){
+ println("Welcome to kotlin")
+ 
+ }
